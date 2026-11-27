@@ -1,0 +1,13 @@
+HOSPITAL BILL SUMMARY
+Patient    Doctor           Department       Visit              Bill
+--------------------------------------------------------------------
+Anu        Dr. Ravi         Cardiology       Outpatient       800.00
+Bharat     Dr. Meena        Orthopaedics     Inpatient      6,500.00
+Cathy      Dr. Kumar        Neurology        Emergency      4,000.00
+Deepak     Dr. Ravi         Cardiology       Outpatient     1,200.00
+
+DEPARTMENT TOTALS
+Cardiology      : 2,000.00
+Orthopaedics    : 6,500.00
+Neurology       : 4,000.00
+Hospital total: 12,500.00
