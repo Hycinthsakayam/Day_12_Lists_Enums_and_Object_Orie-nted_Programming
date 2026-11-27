@@ -1,0 +1,8 @@
+VEHICLE RENTAL SUMMARY
+Customer   Vehicle  Registration   Days     Amount
+------------------------------------------------------
+Arun       Car      TN10AB1234        3   5,900.00
+Banu       Bike     TN22CD5678        2   1,000.00
+Charan     Van      TN30EF9012        4  12,700.00
+Divya      Car      TN11GH3456        1   1,800.00
+Total revenue: 21,400.00
