@@ -1,0 +1,22 @@
+MONTHLY PREMIUM COLLECTION
+Policy   Region   Status          Premium
+------------------------------------------
+M101     North    Active        20,000.00
+M102     South    Active        14,000.00
+H201     North    Active        24,000.00
+H202     West     Lapsed        18,000.00
+M103     West     Active        10,000.00
+H203     South    Active        14,400.00
+
+REGION TOTALS
+North   : 44,000.00
+South   : 28,400.00
+West    : 28,000.00
+
+REGION / POLICY TYPE MATRIX
+Region          Motor         Home    Row total
+----------------------------------------------
+North       20,000.00    24,000.00    44,000.00
+South       14,000.00    14,400.00    28,400.00
+West        10,000.00    18,000.00    28,000.00
+Column total    44,000.00    56,400.00   100,400.00
